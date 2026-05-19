@@ -53,25 +53,6 @@ RMSE (Root Mean Squared Error): Medição da magnitude do erro das previsões.
 
 R² Score: Percentual da variância dos dados explicado pelas variáveis educacionais.
 
-## 📂 4. Estrutura do Repositório
-Organização estrutural para replicação imediata do projeto:
-
-Plaintext
-├── data/                  # Armazenamento dos datasets originais (Links/Instruções)
-│   ├── raw/               # Dados brutos baixados das fontes oficiais
-│   └── processed/         # Dados limpos e unificados prontos para modelagem
-├── notebooks/             # Jupyter Notebooks organizados por ordem cronológica
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   └── 03_predictive_modeling.ipynb
-├── src/                   # Códigos e scripts de produção (.py)
-│   ├── data_pipeline.py
-│   └── utils.py
-├── README.md              # Documentação principal do projeto
-└── requirements.txt       # Dependências e bibliotecas do projeto para instalação
-## 🚀 5. Como Executar Este Projeto
-Para rodar o pipeline completo em sua máquina local, siga a ordem das tarefas abaixo:
-
 ## 📢 6. Conclusões e Insights para Políticas Públicas
 Os resultados do modelo apontam que a infraestrutura escolar básica atua como o principal funil para o esporte de alto rendimento no Brasil. Investimentos direcionados à cobertura e reforma de quadras em municípios de vulnerabilidade social apresentam alto potencial de retorno na quantidade de atletas integrando as categorias de base e estudantil em um horizonte de 4 anos, gerando impacto direto no desenvolvimento social e na representatividade esportiva do país.
 
