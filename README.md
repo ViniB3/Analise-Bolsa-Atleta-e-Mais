@@ -1,5 +1,10 @@
 # 🏅 Data Science: Bolsa Atleta & O Cenário de Infraestrutura Esportiva e Educacional no Brasil
 
+## Objetivos
+O fomento ao esporte de alto rendimento no Brasil tem como principal pilar o Programa Bolsa Atleta. Contudo, o desenvolvimento de novos talentos e o acesso à prática esportiva dependem diretamente da base educacional e da infraestrutura disponível nas instituições de ensino.
+
+Este projeto tem como objetivo cruzar e analisar os dados de concessão do Bolsa Atleta com os indicadores de infraestrutura esportiva das escolas brasileiras (Censo Escolar)
+
 ## ❓ Perguntas de Pesquisa
 Para guiar a análise exploratória e a construção dos modelos preditivos, o projeto responde formalmente às seguintes questões:
 
