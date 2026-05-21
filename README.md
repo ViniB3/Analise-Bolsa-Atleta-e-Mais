@@ -22,6 +22,31 @@ INEP / Censo Escolar: Infraestrutura das escolas de educação básica (presenç
 
 IBGE: Dados socioeconômicos dos municípios (PIB per capita, população e IDH).
 
+# Descrição do Dataset: Bolsa Atleta Dezembro
+
+## Fonte
+O dataset "Bolsa Atleta Dezembro (Planilha1)" foi obtido a partir de dados públicos relacionados ao programa Bolsa Atleta, que visa apoiar financeiramente atletas brasileiros. A fonte original dos dados é https://dados.gov.br/dados/conjuntos-dados/folha-de-pagamento---bolsa-atleta-
+
+## Estrutura
+O arquivo está no formato CSV, com o seguinte nome:
+- Bolsa Atleta Dezembro(Planilha1).csv
+
+Principais colunas:
+- **UF**: Unidade Federativa (estado brasileiro) do atleta.
+- **Valor Pago**: Valor financeiro pago ao atleta, em reais.
+- Modalidade: Esporte praticado pelo atleta
+- Categoria: Categoria em que o atleta compete
+- Outras colunas podem estar presentes, detalhando informações adicionais dos beneficiários.
+
+
+## Tamanho Estimado
+- O arquivo possui 9413 linhas, cada uma representando um atleta beneficiado no mês de dezembro.
+- O tamanho do arquivo é 1,3 MB.
+
+## Observações
+- Os dados permitem análises por estado (UF), total de valores pagos e número de atletas beneficiados.
+
+
 
 
 Desenvolvido por: [Vinícius R. Borges]
